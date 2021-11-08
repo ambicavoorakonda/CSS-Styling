@@ -1,0 +1,28 @@
+h1 {
+    color: darkkhaki;
+    font-size: 50px;
+    letter-spacing: 2px;
+    background-color: darkslategray;
+    text-align: center;
+    margin-top: 0%;
+    padding: 20px;
+ 
+ }
+ body {
+     background-color: cornsilk;
+    margin-left: 10px;
+    text-align: justify;
+    font-size: 20px;
+    padding: 16px;
+    line-height: 40px;
+    letter-spacing: 2px;
+ }
+ .new {
+     padding: 10px;
+     border: 2px solid rgb(99, 99, 143);
+ }
+
+ ol {
+     list-style-type: disc;
+     list-style-position: inside;
+ }
